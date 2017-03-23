@@ -1,5 +1,5 @@
-test
-rt numpy as np
+#test
+import numpy as np
 from sklearn import decomposition as dec
 import matplotlib.pyplot as plt
 
